@@ -9,6 +9,7 @@ using namespace std;
 
 int main()
 {
+int b;
 string vard, pav,spp;
 int grup, kurs, age;
 cout << "koks yra jusu vardas?";
