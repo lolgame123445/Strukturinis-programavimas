@@ -1,0 +1,14 @@
+//
+// Created by kulka on 9/17/2026.
+//
+
+#ifndef STRUKTURINIS_PROGRAMAVIMAS_FIRST_H
+#define STRUKTURINIS_PROGRAMAVIMAS_FIRST_H
+
+
+class first
+{
+};
+
+
+#endif //STRUKTURINIS_PROGRAMAVIMAS_FIRST_H
